@@ -7,7 +7,7 @@ Visualization of Ark Trading History. It can help you track the transactions mad
 
 
 
-![](https://github.com/anels/ark_recap/blob/main/docs/ex1.png)
+![](https://github.com/anels/ark_recap/blob/main/docs/ex2.png)
 
 ## Installation
 
